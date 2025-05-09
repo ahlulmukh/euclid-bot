@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "windows": {
+    "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-windows/euclid-bot.exe",
+    "checksum": "cdf70303143f8b14ae5280d723a2ce9fb0f1a820701e7211b2e863ed1a1367b0"
+  },
+  "linux": {
+    "amd64": {
+      "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-amd64/euclid-bot-amd64",
+      "checksum": "493ab850be77643ec211f0bb2a21b1c74bb123a5c1f1f2e722e1f0ff8a64c156"
+    },
+    "arm64": {
+      "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-arm64/euclid-bot-arm64",
+      "checksum": "3b3fb48048123a140725cacb408512559465ea4c4bfc0b4af27daccbe9c3c721"
+    }
+  }
+}

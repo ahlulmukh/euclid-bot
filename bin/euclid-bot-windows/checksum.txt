@@ -1,3 +1,3 @@
 SHA256 hash of euclid-bot.exe:
-c5e60875488da5419908609a23a91bf4bb290f709fbe03f50f708c3ec3827d0b
+feaa63dc4d55c14248aec30b553faf9ca2044ae7058b97f67d4bad4a757eb1e0
 CertUtil: -hashfile command completed successfully.

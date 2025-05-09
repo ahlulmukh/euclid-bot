@@ -1,17 +1,18 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.4",
+  "changelog": "\### Added\\- Changelog when update.\\---\",
   "windows": {
     "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-windows/euclid-bot.exe",
-    "checksum": "cdf70303143f8b14ae5280d723a2ce9fb0f1a820701e7211b2e863ed1a1367b0"
+    "checksum": "6644d1176692845db9916a355afd274fb3160206f1f41bec5448c840daa85d88"
   },
   "linux": {
     "amd64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-amd64/euclid-bot-amd64",
-      "checksum": "493ab850be77643ec211f0bb2a21b1c74bb123a5c1f1f2e722e1f0ff8a64c156"
+      "checksum": "f829159b6549c4b2f4c256df301aa7a8a9173ab4514c4f7dd6100d1ab9c78747"
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-arm64/euclid-bot-arm64",
-      "checksum": "3b3fb48048123a140725cacb408512559465ea4c4bfc0b4af27daccbe9c3c721"
+      "checksum": "b128923b554de7868d3b56bdcd187b3e6d1eb68a57207c5acc65eb831575b8c9"
     }
   }
 }

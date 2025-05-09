@@ -1,18 +1,18 @@
 {
-  "version": "1.0.8",
-  "changelog": "",
+  "version": "1.0.9",
+  "changelog": " Added • Swap ETH -> MON. ",
   "windows": {
     "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-windows/euclid-bot.exe",
-    "checksum": "feaa63dc4d55c14248aec30b553faf9ca2044ae7058b97f67d4bad4a757eb1e0"
+    "checksum": "8566bafab8c298248143f35ddc695612b38270f079c5faa51488f0579186e843"
   },
   "linux": {
     "amd64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-amd64/euclid-bot-amd64",
-      "checksum": "705e403249894c4e203b4d7912642b29983938a3a229021b256140c05ae78d59"
+      "checksum": "859f1a7285ad9342a50a92bc7c53a3c2162a6d2d6049b9bce9cd1b802ed4b14d"
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-arm64/euclid-bot-arm64",
-      "checksum": "7db27a2f120b962f4c32d2878eb50df7547c587b12992a237ee2b6cc6aecb692"
+      "checksum": "c0da6b8422f0e0c11ef9d1b47726001a50a84d1d47f95cb7a7ceb13ef5703fb2"
     }
   }
 }

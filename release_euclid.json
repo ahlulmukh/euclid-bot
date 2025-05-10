@@ -1,18 +1,18 @@
 {
-  "version": "1.0.9",
-  "changelog": " Added • Swap ETH -> MON. ",
+  "version": "1.1.0",
+  "changelog": "Added\\n\\n• Swap ETH -> BNB.\\nRefactor\\n\\n• Clean function",
   "windows": {
     "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-windows/euclid-bot.exe",
-    "checksum": "8566bafab8c298248143f35ddc695612b38270f079c5faa51488f0579186e843"
+    "checksum": "9afdb497e63bdafdb321bbddc5bc1ec936f60d7146f8f10df99b63e4fcefb848"
   },
   "linux": {
     "amd64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-amd64/euclid-bot-amd64",
-      "checksum": "859f1a7285ad9342a50a92bc7c53a3c2162a6d2d6049b9bce9cd1b802ed4b14d"
+      "checksum": "d1c51e5044f4030a7872b6d7d04555f99db647be9b5bf6f8341dd630a4176012"
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/euclid-bot/main/bin/euclid-bot-linux-arm64/euclid-bot-arm64",
-      "checksum": "c0da6b8422f0e0c11ef9d1b47726001a50a84d1d47f95cb7a7ceb13ef5703fb2"
+      "checksum": "81bc4fd5b36bc8cc0f8a70882335d8cc626ec41d84d61bcb61319ee565af00f2"
     }
   }
 }
